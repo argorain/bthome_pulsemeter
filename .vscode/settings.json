@@ -1,0 +1,23 @@
+{
+    "cmake.sourceDirectory": "/home/rain/Development/bthome_pulsemeter",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#c5f3a6",
+        "activityBar.background": "#c5f3a6",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#73a3ec",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#c5f3a6",
+        "statusBar.background": "#a7ed79",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#89e74c",
+        "statusBarItem.remoteBackground": "#a7ed79",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#a7ed79",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#a7ed7999",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#a7ed79"
+}
